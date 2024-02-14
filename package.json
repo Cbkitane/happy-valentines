@@ -1,0 +1,12 @@
+{
+    "name": "flower",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "main": "index.js",
+    "scripts": {
+      "scss:compile": "sass styles.scss styles.css"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
